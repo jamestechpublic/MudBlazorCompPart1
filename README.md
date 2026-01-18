@@ -6,7 +6,7 @@ Demonstration code for the following MudBlazor components:
 - MudBreadcrumbs
 - MudBreakpoint
 - BUTTONS
-- - MudButton
+  - MudButton
   - MudFab
   - MudButtonGroup
   - MudIconButton
